@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TanyaMuth
 - 👀 I’m interested in data science
-- 🌱 I’m currently learning SQL database design
+- 🌱 I’m currently learning SQL, R, Python, Database Design, Data Science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: she/her
