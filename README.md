@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TanyaMuth
-- 👀 I’m interested in data science and database administration
+- 👀 I’m interested in data science, data visualization, and database administration
 - 🌱 I’m currently learning SQL, R, Python, Database Design, Data Science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
